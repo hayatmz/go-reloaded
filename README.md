@@ -36,7 +36,7 @@ Le programme modifie un fichier texte selon les instructions suivantes :<br>
 - Reformate les expressions entre guillemets simples ```' '``` sans espace superflu.<br>
 
 **Exemple :**<br>
-```sample.txt : Well , this is awkward ...isn't it ? Let's fix it ;please.```
+```sample.txt : Well , this is awkward ...isn't it ? Let's fix it ;please.```<br>
 ```result.txt : Well, this is awkward... isn't it ? Let's fix it; please.```
 
 ## 🗂️ Fichiers
